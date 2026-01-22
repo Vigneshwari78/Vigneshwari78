@@ -1,9 +1,9 @@
-## Hi there 👋 I'm Vigneshwari  
+## Hi there 👋 I'm Vigneshwari | Python Developer
 
-I'm a fresher Python Backend Developer passionate about building clean and functional web applications.
+I'm a fresher Python Developer passionate about building clean and functional web applications.
 
 - 🔭 Here's my [portfolio](https://vigneshwari78.github.io/vigneshwari-portfolio/)
-- 🌱 Currently improving my backend development skills
+- 🌱 Actively improving my backend development skills through projects
 - 💼 Open to fresher / entry-level Python backend roles
 
 ---
@@ -29,5 +29,7 @@ I'm a fresher Python Backend Developer passionate about building clean and funct
 
 
 ---
+
+✨ I enjoy learning by building projects and writing clean, maintainable backend code.
 
 ✨ I enjoy learning by building projects and writing clean, readable backend code.
