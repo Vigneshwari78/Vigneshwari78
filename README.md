@@ -32,4 +32,3 @@ I'm a fresher Python Developer passionate about building clean and functional we
 
 ✨ I enjoy learning by building projects and writing clean, maintainable backend code.
 
-✨ I enjoy learning by building projects and writing clean, readable backend code.
