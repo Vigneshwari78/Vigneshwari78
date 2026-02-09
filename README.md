@@ -1,5 +1,5 @@
-## Hi there 👋 I'm Vigneshwari | Python Developer
-
+## Hi there 👋 I'm Vigneshwari | Python Developer | Software Developer
+ 
 I'm a fresher Python Developer passionate about building clean and functional web applications.
 
 - 🔭 Here's my [portfolio](https://vigneshwari78.github.io/vigneshwari-portfolio/)
